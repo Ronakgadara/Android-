@@ -41,21 +41,49 @@ ChatApp/
 ```
 
 ## 📸 Screenshots
+
 - Login
+
+  
   <img width="750" height="1600" alt="image" src="https://github.com/user-attachments/assets/d41585b1-fbe7-4404-ab01-bb0f1d30f0d6" />
+
+  
 - Registration
+
+  
  <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/4f988ffc-e6a7-46a5-85ea-0f75893eb9cc" />
+ 
 
 - Dashboard
-  <img width="747" height="1600" alt="image" src="https://github.com/user-attachments/assets/a858df83-f35b-4b58-97f9-b953966f179e" />
+
+  
+  <img width="749" height="1600" alt="image" src="https://github.com/user-attachments/assets/1c481e99-5f82-40e4-b319-94e767c1aa6a" />
+
+
 - Chat Screen
-  <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/4086e370-931a-47e9-b680-1488bdccc2f0" />
+
+  
+  <img width="747" height="1600" alt="image" src="https://github.com/user-attachments/assets/542347cb-c0f2-453e-b4f8-e57afef984fa" />
+
+
 - User Profile
-  <img width="746" height="1600" alt="image" src="https://github.com/user-attachments/assets/995db59b-d105-4609-bb1e-4c68f29640f8" />
+
+  
+  <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/7c66cee4-c5a6-466b-9c99-5843dbd551ce" />
+
+
 - Settings
+
+  
   <img width="746" height="1600" alt="image" src="https://github.com/user-attachments/assets/5fd2d9cd-3c28-4d22-bcfd-9cbbd13f1fe0" />
+
+  
 - Dark Mode
+
+  
   <img width="744" height="1600" alt="image" src="https://github.com/user-attachments/assets/3b36e14e-5020-40d2-b410-3ebc191b54ff" />
+
+
 
 ## 🚀 Getting Started
 
